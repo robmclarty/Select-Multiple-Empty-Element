@@ -69,9 +69,3 @@ stuff that a `Thing` could have. Each `Thing` can, then, choose to have a sub-se
         <%= f.submit %>
       </div>
     <% end %>
-
-## Database
-
-The example app has a database which I've added some content to in order to view the issue.
-You can see in the index view where `some_stuff` is listed, there is an empty element in the
-first element of each array. I'm just looking for a way of handling that.
